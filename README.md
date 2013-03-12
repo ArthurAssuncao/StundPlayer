@@ -12,7 +12,7 @@ Permite, além das funções essenciais a qualquer player, o envio de músicas p
 ###Cliente
 ####Como utilizar
 * De duplo clique no cliente ou abra pelo terminal "java -jar cliente.jar".
-* Vá na ferramenta localizada no canto superior direito do cliente e configure o IP do servidor, se não tem um servidor, faça o download do servidor em: http://code.google.com/p/servidor
+* Vá na ferramenta localizada no canto superior direito do cliente e configure o IP do servidor, se não tem um servidor, faça o download do servidor em: [StundPlayerServidor](https://github.com/ArthurAssuncao/StundPlayer/blob/master/bin/StundPlayerServidor.jar)
 * Crie um conta colocando o nome de usuário e uma senha.
 * Desfrute do player.
 
@@ -32,7 +32,7 @@ Permite, além das funções essenciais a qualquer player, o envio de músicas p
 ###Servidor
 #####Como utilizar
 * De duplo clique no servidor ou abra pelo terminal "java -jar servidor.jar", de preferência use pelo terminal.
-* Pronto, agora apenas espere por conexões de clientes, se não tem um cliente, faça o download em: http://code.google.com/p/cliente
+* Pronto, agora apenas espere por conexões de clientes, se não tem um cliente, faça o download em: [StundPlayerCliente](https://github.com/ArthurAssuncao/StundPlayer/blob/master/bin/StundPlayerCliente.jar)
 
 
 ##Tecnologias utilizadas
