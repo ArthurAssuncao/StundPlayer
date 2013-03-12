@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="bibliotecas/swingx-all-1.6.3.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/hsqldb/hsqldb.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/hsqldb/sqltool.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/mp3spi1.9.5.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/StundPlayerServidor/bibliotecas/mp3spi1.9.5_docs.zip!/doc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="bibliotecas/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/jl1.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
