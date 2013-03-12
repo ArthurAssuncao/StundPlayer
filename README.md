@@ -47,7 +47,7 @@ Permite, além das funções essenciais a qualquer player, o envio de músicas p
 
 ##Screnshots
 
-![Stund Player](https://github.com/ArthurAssuncao/StundPlayer/raw/master/screenshots/preview1.0.png)
+![Stund Player](https://raw.github.com/ArthurAssuncao/StundPlayer/master/screenshots/screenshot_01.png)
 
 Agradecimentos especiais a (Special thanks to):
 
