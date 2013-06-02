@@ -1,8 +1,8 @@
-#Stund Player
+Stund Player
 ============
 
 O **Stund Player** é um software open-source desenvolvido em Java, com a finalizade de ser um player nas nuvens, tendo um cliente e um servidor(onde as músicas são armazenadas).<br />
-Foi desenvolvido como trabalho para a disciplina de Redes de Computadores do 3º período do curso Tecnologia em Sistemas para Internet, apenas para fins acadêmicos.
+Foi desenvolvido como trabalho para a disciplina de **Redes de Computadores** do 3º período do curso **Tecnologia em Sistemas para Internet**, apenas para fins acadêmicos.
 
 Utiliza o protocolo Real Time Streaming Protocol (RTSP) para o controle na transferência dos dados e o protocolo Real-time Transport Protocol (RTP) para a entrega dos dados fragmentados do arquivo de áudio MP3.
 Permite, além das funções essenciais a qualquer player, o envio de músicas para o servidor.
